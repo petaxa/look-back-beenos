@@ -37,6 +37,10 @@ fonts:
 </style>
 
 ---
+src: ./pages/agenda.md
+---
+
+---
 src: ./pages/greet.md
 ---
 
